@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27743f1f-525a-4258-9ca8-f9747c2fa87f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shiyan3/shiyan3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shiyan4/shiyan4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redis2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis2/src/main/java/UserDaoRedisImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redis2/src/main/java/UserDaoRedisImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis3/src/main/java/TestSentinels.java" beforeDir="false" afterPath="$PROJECT_DIR$/../redis3/src/main/java/TestSentinels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis3/target/classes/TestSentinels.class" beforeDir="false" afterPath="$PROJECT_DIR$/../redis3/target/classes/TestSentinels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redis3/target/classes/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/dao/UserDaoRedisImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UserDaoRedisImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/pojo/UserVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UserVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oracle/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/dao/UserDaoRedisImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/pojo/UserVO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oracle/test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/dao/UserDao2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/UserDao2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/pojo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/src/main/java/com/oracle/pojo/UserVO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shiyan2/src/main/java/UserVO2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/dao/UserDao2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/dao/UserDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/pojo/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shiyan2/target/classes/com/oracle/pojo/UserVO2.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\25\study\J257_java\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ppqZKsIrF8W8JxYXOwPO1jmLDF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shiyan2" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\25\study\RedistProject\src\main\java\com\oracle" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Test1">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <module name="shiyan1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Base64ImageUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oracle.Base64ImageUtils" />
+      <module name="shiyan1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="shiyan1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test3" />
+      <module name="shiyan1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test4" />
+      <module name="shiyan1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedistProject" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.RedistProject" />
+      <item itemvalue="应用程序.test3" />
+      <item itemvalue="应用程序.Base64ImageUtils" />
+      <item itemvalue="应用程序.Test1" />
+      <item itemvalue="应用程序.A" />
+      <item itemvalue="应用程序.test4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Test1" />
+        <item itemvalue="应用程序.test4" />
+        <item itemvalue="应用程序.test3" />
+        <item itemvalue="应用程序.A" />
+        <item itemvalue="应用程序.Base64ImageUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sponor\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27743f1f-525a-4258-9ca8-f9747c2fa87f" name="Default Changelist" comment="" />
+      <created>1615890433019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615890433019</updated>
+      <workItem from="1615890436461" duration="4481000" />
+      <workItem from="1615972642010" duration="156000" />
+      <workItem from="1615974924789" duration="566000" />
+      <workItem from="1615976110451" duration="7448000" />
+      <workItem from="1616115485215" duration="4000" />
+      <workItem from="1616115828044" duration="278000" />
+      <workItem from="1616720330073" duration="16000" />
+      <workItem from="1616720393189" duration="230000" />
+      <workItem from="1616722336329" duration="13000" />
+      <workItem from="1617251406527" duration="35000" />
+      <workItem from="1617251469694" duration="617000" />
+      <workItem from="1617256132415" duration="12000" />
+      <workItem from="1617271469368" duration="58000" />
+      <workItem from="1617271574523" duration="678000" />
+      <workItem from="1617272278809" duration="2616000" />
+      <workItem from="1617275123358" duration="890000" />
+      <workItem from="1617276028376" duration="908000" />
+      <workItem from="1617276982103" duration="476000" />
+      <workItem from="1617277473621" duration="38000" />
+      <workItem from="1617277558949" duration="3000" />
+      <workItem from="1617277931419" duration="16000" />
+      <workItem from="1617279012465" duration="625000" />
+      <workItem from="1617280349836" duration="29000" />
+      <workItem from="1617280767141" duration="23000" />
+      <workItem from="1617281070348" duration="22000" />
+      <workItem from="1617623413295" duration="96000" />
+      <workItem from="1617698929327" duration="935000" />
+      <workItem from="1617700171792" duration="2233000" />
+      <workItem from="1617703511740" duration="102000" />
+      <workItem from="1617709048018" duration="48000" />
+      <workItem from="1617781666046" duration="787000" />
+      <workItem from="1617846674320" duration="6767000" />
+      <workItem from="1617882899147" duration="9495000" />
+      <workItem from="1618842763358" duration="1142000" />
+      <workItem from="1618849186634" duration="588000" />
+      <workItem from="1618849819642" duration="7000" />
+      <workItem from="1618850525910" duration="241000" />
+      <workItem from="1618899300991" duration="1051000" />
+      <workItem from="1618903065411" duration="695000" />
+      <workItem from="1618914018304" duration="477000" />
+      <workItem from="1618914762900" duration="597000" />
+      <workItem from="1618916775272" duration="226000" />
+      <workItem from="1618917831393" duration="862000" />
+      <workItem from="1618919646625" duration="2065000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
